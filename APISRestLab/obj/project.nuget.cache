@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fNhNMJSnoNFt5dOYoxjbIoO3gAhl9nWNprFmSJSO0gP57NZpoD4jIvFtuCk9QIbLj+3Y3FKT461nANk+y1432g==",
+  "success": true,
+  "projectFilePath": "C:\\lab01apiRESTMafe\\lab01apirest\\APISRestLab\\APISRestLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aprendiz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
